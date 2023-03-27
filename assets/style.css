@@ -1,0 +1,34 @@
+.col {
+    height: 60px;
+    background-color: #006cfa;
+    border:solid 1px white;
+    overflow-y: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+.col2 {
+    height: 45px;
+    background-color: #00ff22;
+    border:solid 1px #006cfa;
+    overflow-y: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    
+.row2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;}
+
+
+
+.row3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;}
